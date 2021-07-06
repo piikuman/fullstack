@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App() { //declara una funcion con mayuscula al principio
   return (
     <div className="App">
       <header className="App-header">
